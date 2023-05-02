@@ -1,0 +1,15 @@
+style=/home/jota/.config/wofi/moonfly.css
+xoffset=485
+yoffset=200
+show=drun
+width=400
+height=400
+always_parse_args=true
+show_all=true
+print_command=true
+allow_images=true
+image_size=25
+layer=overlay
+insensitive=true
+prompt=
+content_halign=center
